@@ -1,0 +1,6 @@
+core.ml: Format Support Syntax
+lexer.ml: Char Filename Hashtbl Lexing List Parser String Support Sys
+main.ml: Arg Core Format Lexer List Parser Parsing Printexc Support Syntax
+parser.ml: Lexing Obj Pervasives Printf Support Syntax
+support.ml: Format
+syntax.ml: Format Support
