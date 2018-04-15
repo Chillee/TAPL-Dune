@@ -1,0 +1,7 @@
+lib: [
+  "_build/install/default/lib/fullisorec/META" {"META"}
+  "_build/install/default/lib/fullisorec/opam" {"opam"}
+]
+bin: [
+  "_build/install/default/bin/main.exe"
+]

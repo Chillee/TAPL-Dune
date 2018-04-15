@@ -1,0 +1,7 @@
+lib: [
+  "_build/install/default/lib/purefsub/META" {"META"}
+  "_build/install/default/lib/purefsub/opam" {"opam"}
+]
+bin: [
+  "_build/install/default/bin/main.exe"
+]

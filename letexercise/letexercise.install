@@ -1,0 +1,7 @@
+lib: [
+  "_build/install/default/lib/letexercise/META" {"META"}
+  "_build/install/default/lib/letexercise/opam" {"opam"}
+]
+bin: [
+  "_build/install/default/bin/main.exe"
+]

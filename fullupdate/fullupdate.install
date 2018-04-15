@@ -1,0 +1,7 @@
+lib: [
+  "_build/install/default/lib/fullupdate/META" {"META"}
+  "_build/install/default/lib/fullupdate/opam" {"opam"}
+]
+bin: [
+  "_build/install/default/bin/main.exe"
+]

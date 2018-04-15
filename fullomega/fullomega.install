@@ -1,0 +1,7 @@
+lib: [
+  "_build/install/default/lib/fullomega/META" {"META"}
+  "_build/install/default/lib/fullomega/opam" {"opam"}
+]
+bin: [
+  "_build/install/default/bin/main.exe"
+]

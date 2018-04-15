@@ -1,0 +1,7 @@
+lib: [
+  "_build/install/default/lib/equirec/META" {"META"}
+  "_build/install/default/lib/equirec/opam" {"opam"}
+]
+bin: [
+  "_build/install/default/bin/main.exe"
+]

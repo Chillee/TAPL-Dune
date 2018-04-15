@@ -1,0 +1,7 @@
+lib: [
+  "_build/install/default/lib/simplebool/META" {"META"}
+  "_build/install/default/lib/simplebool/opam" {"opam"}
+]
+bin: [
+  "_build/install/default/bin/main.exe"
+]

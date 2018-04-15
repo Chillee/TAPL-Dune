@@ -1,0 +1,7 @@
+lib: [
+  "_build/install/default/lib/fulluntyped/META" {"META"}
+  "_build/install/default/lib/fulluntyped/opam" {"opam"}
+]
+bin: [
+  "_build/install/default/bin/main.exe"
+]

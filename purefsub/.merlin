@@ -1,0 +1,4 @@
+B _build/default
+FLG -w -40 -g
+PKG menhirLib
+S .

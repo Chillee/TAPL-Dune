@@ -1,0 +1,15 @@
+(jbuild_version 1)
+
+(ocamllex (lexer))
+ (menhir
+    ((flags ())
+     (modules (parser))))
+
+(executable
+ ((name main)
+  (libraries (menhirLib))
+  (flags (:standard -g))))
+
+(install
+ ((section bin)
+  (files (main.exe))))

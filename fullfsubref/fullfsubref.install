@@ -1,0 +1,7 @@
+lib: [
+  "_build/install/default/lib/fullfsubref/META" {"META"}
+  "_build/install/default/lib/fullfsubref/opam" {"opam"}
+]
+bin: [
+  "_build/install/default/bin/main.exe"
+]
