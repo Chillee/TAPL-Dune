@@ -6,8 +6,8 @@ I was getting annoyed about build errors I was getting with the original files, 
 Original files [here](http://www.cis.upenn.edu/~bcpierce/tapl/checkers/)
 
 ## Instructions:
-Run `make` or `make clean` to make/clean all of the implementations.
-Within each directory:
-`make` builds the project.
-`make clean` cleans.
-`make test {FILENAME}` tests the implementation on `{FILENAME}`.
+Run `make` or `make clean` to make/clean all of the implementations.  
+Within each directory:  
+`make` builds the project.  
+`make clean` cleans.  
+`make test {FILENAME}` tests the implementation on `{FILENAME}`.  
